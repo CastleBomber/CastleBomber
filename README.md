@@ -2,6 +2,7 @@
 
 Full stack developer
 
+Showcasing:
 - Software Projects
 - Algorithm Challenges
 - Animations
