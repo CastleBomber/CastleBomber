@@ -1,4 +1,4 @@
-### Hellos, I'm CBombs👋
+### Howdys, I'm CBombs👋
 
 Full stack developer
 
