@@ -1,6 +1,6 @@
-### Howdys, I'm CBombs👋
+### Howdys, welcome to my github page👋
 
-Full stack developer
+Full stack developer specializing in: python, javascript, C++, C#, java
 
 Showcasing:
 - Software Projects
