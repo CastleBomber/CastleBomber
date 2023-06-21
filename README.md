@@ -1,7 +1,8 @@
 Showcasing:
-- VR Project
-- Group Database Projects
-- Algorithm Challenges
+- VR project
+- Web3 project
+- Group database projects
+- Algorithm challenges
 - Animations
 
 **Languages and Tools:**
