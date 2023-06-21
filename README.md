@@ -1,9 +1,6 @@
-### Howdys, welcome to my github page👋
-
-Full stack developer specializing in: python, javascript, C++, C#, java
-
 Showcasing:
-- Software Projects
+- VR Project
+- Group Database Projects
 - Algorithm Challenges
 - Animations
 
