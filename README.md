@@ -1,6 +1,6 @@
 Showcasing:
 - VR projects
-- Web3 projects
+- Web3 Crypto projects
 - Group database projects
 - Algorithm challenges
 - Animations
