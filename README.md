@@ -1,7 +1,8 @@
 Showcasing:
-- VR projects
 - Web3 crypto projects
-- Group database projects
+- Machine learning pytorch projects
+- VR projects
+- Database projects
 - Algorithm challenges
 - Animations
 
