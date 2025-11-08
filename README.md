@@ -16,8 +16,7 @@
 <b>AI / Machine Learning</b><br>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="40" style="vertical-align:middle; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/LangChain_Logo.svg"
-     alt="LangChain Logo" height="40" style="vertical-align:middle; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/LangChain_Logo.svg" alt="LangChain" height="40" style="vertical-align:middle; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="40" style="vertical-align:middle; margin:4px">
 
 <br>
@@ -47,8 +46,7 @@
 
 <!-- 🔐 Web3 / Blockchain -->
 <b>Web3 / Blockchain</b><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum_logo_2014.svg"
-     alt="Ethereum Logo" height="40" style="vertical-align:middle; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum_logo_2014.svg" alt="Ethereum" height="40" style="vertical-align:middle; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" height="40" style="vertical-align:middle; margin:4px">
 
 <br>
