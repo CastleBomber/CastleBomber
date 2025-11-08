@@ -1,6 +1,6 @@
 ### 🚀 About Me
 **Developer Focus:**  
-- 🧠 Machine Learning / AI (LangChain, PyTorch, LLMs)  
+- 🧠 Machine Learning / AI (LangChain, PyTorch, Mastra, LLMs)  
 - 🧩 Web3 & Blockchain Experiments  
 - 🕶️ VR / Game Dev (Unity & Unreal)  
 - 🗃️ Databases & Backend Systems  
@@ -16,7 +16,8 @@
 <b>AI / Machine Learning</b><br>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="40" style="vertical-align:middle; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://seeklogo.com/images/L/langchain-logo-DAED0D0D08-seeklogo.com.png" alt="LangChain" height="40" style="vertical-align:middle; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/LangChain_Logo.svg"
+     alt="LangChain Logo" height="40" style="vertical-align:middle; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="40" style="vertical-align:middle; margin:4px">
 
 <br>
@@ -46,7 +47,8 @@
 
 <!-- 🔐 Web3 / Blockchain -->
 <b>Web3 / Blockchain</b><br>
-<img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" alt="Ethereum" height="40" style="vertical-align:middle; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum_logo_2014.svg"
+     alt="Ethereum Logo" height="40" style="vertical-align:middle; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" height="40" style="vertical-align:middle; margin:4px">
 
 <br>
