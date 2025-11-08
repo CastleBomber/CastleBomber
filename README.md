@@ -1,4 +1,5 @@
-### 🚀 Developer Focus
+### 🚀 Developer Snapshot
+**Areas of Focus:** 
 - 🧠 Machine Learning / AI (LangChain, PyTorch, LLMs)  
 - 🧩 Web3 & Blockchain Experiments  
 - 🕶️ VR / Game Dev (Unity & Unreal)  
