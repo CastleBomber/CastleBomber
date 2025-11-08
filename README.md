@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png" alt="Ethereum" height="40" style="vertical-align:middle; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" height="40" style="vertical-align:middle; margin:4px">
 
-<br><br>
+<br>
 
 <!-- Row 2: Supporting Tools -->
 <b>Supporting Tools & Systems</b><br>
