@@ -16,7 +16,6 @@
 <b>Core Development & Creative Tech</b><br>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="40" style="vertical-align:middle; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/LangChain_Logo.svg" alt="LangChain" height="40" style="vertical-align:middle; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align:middle; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" style="vertical-align:middle; margin:4px">
 <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png" alt="Ethereum" height="40" style="vertical-align:middle; margin:4px">
