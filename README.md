@@ -46,7 +46,7 @@
 
 <!-- 🔐 Web3 / Blockchain -->
 <b>Web3 / Blockchain</b><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum_logo_2014.svg" alt="Ethereum" height="40" style="vertical-align:middle; margin:4px">
+<img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png" alt="Ethereum" height="40" style="vertical-align:middle; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" height="40" style="vertical-align:middle; margin:4px">
 
 <br>
