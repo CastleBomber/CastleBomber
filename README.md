@@ -1,36 +1,28 @@
-### 🚀 Developer Snapshot
-**Areas of Focus:** 
-- 🧠 Machine Learning / AI (LangChain, PyTorch, LLMs)  
-- 🧩 Web3 & Blockchain Experiments  
-- 🕶️ VR / Game Dev (Unity & Unreal)  
-- 🗃️ Databases & Backend Systems  
-- ⚙️ Algorithmic Challenges & Creative Animations  
+<div align="center">
+
+# CastleBomber
+
+### Software Engineer · Creative Technologist
+
+I build **agents that collaborate, images that move, and worlds that respond.**
+
+`Agentic AI` · `Generative Animation` · `Immersive Systems` · `Web3`
+
+[Portfolio](https://cbombs.vercel.app) · [Repositories](https://github.com/CastleBomber?tab=repositories)
+
+</div>
 
 ---
 
-### 🧰 Languages & Tools
+### Selected Works
 
-<p align="left">
+- **[Frames AI](https://github.com/CastleBomber/frames-ai)** — AI-assisted character animation
+- **[Stocks AI](https://github.com/CastleBomber/stocks-ai)** — Agentic market research
+- **[Agent Teams](https://github.com/CastleBomber/agent-teams)** — Parallel AI-agent orchestration
+- **[Web Pages Unleashed](https://github.com/CastleBomber/web-pages-unleashed)** — Full-stack Web3 transactions
+- **[Angels & Dragons](https://github.com/CastleBomber/angels-and-dragons)** — Immersive Unity experience
+- **[Language Classifier](https://github.com/CastleBomber/language-classifier-pytorch)** — PyTorch language recognition
 
-<!-- Row 1: Core / Focus Areas -->
-<b>Core Development & Creative Tech</b><br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png" alt="Ethereum" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" height="40" style="vertical-align:middle; margin:4px">
+### Instruments
 
-<br>
-
-<!-- Row 2: Supporting Tools -->
-<b>Supporting Tools & Systems</b><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="40" style="vertical-align:middle; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" height="40" style="vertical-align:middle; margin:4px">
-
-</p>
+`Python` · `PyTorch` · `TypeScript` · `React` · `Next.js` · `Node.js` · `C++` · `C#` · `Solidity` · `Unity`
