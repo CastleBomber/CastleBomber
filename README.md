@@ -2,11 +2,11 @@
 
 # CastleBomber
 
-### Software Engineer · Creative Technologist
+### Software Engineer
 
-I build **agents that collaborate, images that move, and worlds that respond.**
+Exploring practical applications of AI in animation, autonomous workflows, and interactive software.
 
-`Agentic AI` · `Generative Animation` · `Immersive Systems` · `Web3`
+`Agentic AI` · `Generative Animation`
 
 [Portfolio](https://cbombs.vercel.app) · [Repositories](https://github.com/CastleBomber?tab=repositories)
 
@@ -14,15 +14,26 @@ I build **agents that collaborate, images that move, and worlds that respond.**
 
 ---
 
-### Selected Works
+### Current Focus
 
-- **[Frames AI](https://github.com/CastleBomber/frames-ai)** — AI-assisted character animation
-- **[Stocks AI](https://github.com/CastleBomber/stocks-ai)** — Agentic market research
-- **[Agent Teams](https://github.com/CastleBomber/agent-teams)** — Parallel AI-agent orchestration
-- **[Web Pages Unleashed](https://github.com/CastleBomber/web-pages-unleashed)** — Full-stack Web3 transactions
-- **[Angels & Dragons](https://github.com/CastleBomber/angels-and-dragons)** — Immersive Unity experience
-- **[Language Classifier](https://github.com/CastleBomber/language-classifier-pytorch)** — PyTorch language recognition
+- **Generative Animation** — [Frames AI](https://github.com/CastleBomber/frames-ai) explores AI-assisted character animation
+- **Agentic Systems** — [Agent Teams](https://github.com/CastleBomber/agent-teams) and [Stocks AI](https://github.com/CastleBomber/stocks-ai) explore orchestration and specialized agents
+- **Machine Learning** — [Language Classifier](https://github.com/CastleBomber/language-classifier-pytorch) experiments with language classification in PyTorch
 
-### Instruments
+### Web3
 
-`Python` · `PyTorch` · `TypeScript` · `React` · `Next.js` · `Node.js` · `C++` · `C#` · `Solidity` · `Unity`
+- [Web Pages Unleashed](https://github.com/CastleBomber/web-pages-unleashed) — Full-stack crypto transactions with Ethereum and Solidity
+
+### Virtual Reality
+
+- [Angels & Dragons](https://github.com/CastleBomber/angels-and-dragons) — VR music-festival experience built with Unity
+
+### Technologies
+
+**AI & Machine Learning:** `Python` · `PyTorch` · `LangChain` · `LLM Agents` · `Computer Vision` · `Generative AI`
+
+**Web & Backend:** `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `Express` · `REST APIs`
+
+**Data & Infrastructure:** `MongoDB` · `MySQL` · `Docker` · `Git`
+
+**Interactive & Web3:** `Unity` · `C#` · `C++` · `Solidity` · `Ethereum`
