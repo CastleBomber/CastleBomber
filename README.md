@@ -8,7 +8,6 @@ Exploring practical applications of AI in animation, autonomous workflows, and i
 
 `Agentic AI` · `Generative Animation`
 
-[Portfolio](https://cbombs.vercel.app) · [Repositories](https://github.com/CastleBomber?tab=repositories)
 
 </div>
 
