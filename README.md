@@ -15,7 +15,7 @@ Exploring practical applications of AI in animation, autonomous workflows, and i
 
 ### Current Focus
 
-- **Generative Animation** — [Frames AI](https://github.com/CastleBomber/frames-ai) explores AI-assisted character animation
+- **Generative Animation** — [Angels AI](https://github.com/CastleBomber/angels-ai) explores AI-assisted character animation
 - **Agentic Systems** — [Agent Teams](https://github.com/CastleBomber/agent-teams) and [Stocks AI](https://github.com/CastleBomber/stocks-ai) explore orchestration and specialized agents
 - **Machine Learning** — [Language Classifier](https://github.com/CastleBomber/language-classifier-pytorch) experiments with language classification in PyTorch
 
